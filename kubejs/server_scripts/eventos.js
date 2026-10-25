@@ -5,7 +5,9 @@ EntityEvents.death('minecraft:player', event => {
   const deathMsg = player.combatTracker.getDeathMessage()
 
   server.tell(Text.red('☠ ').append(Text.of(deathMsg).red()))
-  server.runCommandSilent('execute as @a at @s run playsound minecraft:entity.generic.explode master @s ~ ~ ~ 1 0.5')
+  server.scheduleInTicks(2, () => {
+    server.runCommandSilent('execute as @a at @s run playsound minecraft:entity.generic.explode master @s ~ ~ ~ 1 0.5 1')
+  })
 })
 
 // ✦ Tótem: aviso en dorado para todos
