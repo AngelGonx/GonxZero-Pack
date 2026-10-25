@@ -1,0 +1,13 @@
+name = "ConditionalVideos"
+filename = "conditionalvideos-neoforge-1.21.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QYxLd8Ry/versions/kBjArYYD/conditionalvideos-neoforge-1.21.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "f1d556eee3e9a1fa88945c841627e39265b8647d1ee5fdea85f3229e66a8dfe7ccf892c60c121b94361d2854e1c626935b30f1bbfd82fc807080a3a215800bb9"
+
+[update]
+[update.modrinth]
+mod-id = "QYxLd8Ry"
+version = "kBjArYYD"

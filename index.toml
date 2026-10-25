@@ -9,8 +9,17 @@ file = "config/iris.properties"
 hash = "0d01f2d943136d885a25f5e62594e3c8a4b489ee15252aab9dcb9f2af722a2cf"
 
 [[files]]
+file = "kubejs/server_scripts/eventos.js"
+hash = "c16d893cf4c49bfb715c156a72d1948647cec7ca2bc4dc0e65b24a11b4fd3cde"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -19,8 +28,18 @@ hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+metafile = true
+
+[[files]]
+file = "mods/conditionalvideos.pw.toml"
+hash = "11f393af4cc3bcb8dd80e46cdd5a19c60f0d0923ad09b36906cd33c401ff8c19"
 metafile = true
 
 [[files]]
@@ -141,6 +160,16 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "71944dea59c3df21fd71d4ea2d75d3e34ab159c2c39f047269e14b203416afb5"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "cae7e8292ef90ab14e32cf5970e8467116a6e01df5a79c8a33968d45556eede8"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "b77a560d6c4a3f4558ee0b977463de1283b6b1c39fd565883f9b35df2453cd3d"
 metafile = true
 
 [[files]]
