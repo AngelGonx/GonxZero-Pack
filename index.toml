@@ -21,6 +21,10 @@ file = "kubejs/server_scripts/reaparicion.js"
 hash = "f75959b4e5ac280eb893bbc8ce088c6e44f4d1caa623a7446f233ecf9f7e3f41"
 
 [[files]]
+file = "kubejs/server_scripts/recetas.js"
+hash = "6d95cbfbb0f89dcb8b30f36f7ea61e34c0c28d35a15b34ce02767b61f3bc46a0"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
@@ -84,6 +88,10 @@ metafile = true
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
+
+[[files]]
+file = "mods/gonxzero-1.0.0.jar"
+hash = "b8b40b4692ada5514bc83b8441aaf4a623edeb33c82e478c057bb77265f72300"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
