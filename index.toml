@@ -84,11 +84,6 @@ hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
-file = "mods/mcheli-modern-port.pw.toml"
-hash = "f449351cc25436f8a1feb08b49983fa08727cf99d3df95ecdc0ec95c55543ae6"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
 metafile = true
