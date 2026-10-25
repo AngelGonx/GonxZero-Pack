@@ -100,11 +100,6 @@ hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
-file = "mods/server-waypoint.pw.toml"
-hash = "22a0068c29a9a665a52c38b8f3251939189801d3b94d41a19910ea1ef5687d3a"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "852ba399cf42709a5a22cf946e6a20c0d5e77d2990d98478e3e826a69154ff24"
 metafile = true
