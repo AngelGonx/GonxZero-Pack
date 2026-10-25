@@ -1,0 +1,13 @@
+name = "Just Enough Items (JEI)"
+filename = "jei-1.21.1-neoforge-19.70.0.458.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/IDDZffPi/jei-1.21.1-neoforge-19.70.0.458.jar"
+hash-format = "sha512"
+hash = "3e7dd0cd49b3d5f14d29f4d3957a9c472f471d8bc04e62ae0efcdd4e33eee13e3e94c358db7f6156cb8bfcb98d0b6d9c1aafbb4577ca446e356a5eab9063d2d5"
+
+[update]
+[update.modrinth]
+mod-id = "u6dRKJwZ"
+version = "IDDZffPi"
