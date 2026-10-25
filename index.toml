@@ -9,6 +9,10 @@ file = "config/iris.properties"
 hash = "0d01f2d943136d885a25f5e62594e3c8a4b489ee15252aab9dcb9f2af722a2cf"
 
 [[files]]
+file = "kubejs/reaparicion.js"
+hash = "61d61d20ae69a39c97ed705d989e93bf890af6826521f58072af9220dfdae487"
+
+[[files]]
 file = "kubejs/server_scripts/eventos.js"
 hash = "0ac761410cc6dcb9c4b281cdbef378f91e5525babf4a0ff571b4e181caaa927c"
 
