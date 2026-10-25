@@ -22,7 +22,7 @@ hash = "f75959b4e5ac280eb893bbc8ce088c6e44f4d1caa623a7446f233ecf9f7e3f41"
 
 [[files]]
 file = "kubejs/server_scripts/recetas.js"
-hash = "6d95cbfbb0f89dcb8b30f36f7ea61e34c0c28d35a15b34ce02767b61f3bc46a0"
+hash = "37d830a34493876c58ac55cfc5554a5de1d4a183b5e8de13a9308e86dcc2e62d"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
