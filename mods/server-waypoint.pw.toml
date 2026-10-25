@@ -1,0 +1,13 @@
+name = "Server Waypoint"
+filename = "server_waypoint-4.0.0-neoforge-mc1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7d9dccf3868d08eee734202db36f319d6196d98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9188775
+project-id = 1416929
