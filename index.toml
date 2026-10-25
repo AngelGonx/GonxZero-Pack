@@ -10,7 +10,7 @@ hash = "0d01f2d943136d885a25f5e62594e3c8a4b489ee15252aab9dcb9f2af722a2cf"
 
 [[files]]
 file = "kubejs/server_scripts/eventos.js"
-hash = "c16d893cf4c49bfb715c156a72d1948647cec7ca2bc4dc0e65b24a11b4fd3cde"
+hash = "0ac761410cc6dcb9c4b281cdbef378f91e5525babf4a0ff571b4e181caaa927c"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
