@@ -5,6 +5,10 @@ file = "README.md"
 hash = "25e8f63ecd3c9f1ba1239ac46d9adbc1d4de8584bc94c3a8abe766d3494d89e4"
 
 [[files]]
+file = "config/iris.properties"
+hash = "0d01f2d943136d885a25f5e62594e3c8a4b489ee15252aab9dcb9f2af722a2cf"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
@@ -80,6 +84,11 @@ hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
+file = "mods/mcheli-modern-port.pw.toml"
+hash = "f449351cc25436f8a1feb08b49983fa08727cf99d3df95ecdc0ec95c55543ae6"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
 metafile = true
@@ -95,8 +104,18 @@ hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-vehicle-unofficial.pw.toml"
+hash = "86c60d5d9dce195c24491bfb02a471b145162d16730ce881e87fb19dace23a58"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/server_waypoint.pw.toml"
+hash = "5ffde608bd85d278183314b1037b0fe4bb5c8d8ecd2407886bfc61520da04b14"
 metafile = true
 
 [[files]]
@@ -133,6 +152,15 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
+
+[[files]]
+file = "mods/zombieapocalypseaddon.pw.toml"
+hash = "98b2f6204634c3f91bdf33f275b2e98faa13eda11127835b0f9971ffc68a4ada"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
+hash = "fd0af1773c1b9a0554dadf4307d920b770da5630d2f43ec6308001d8a33b6532"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

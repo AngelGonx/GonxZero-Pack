@@ -1,0 +1,13 @@
+name = "ZombieApocalypseAddon"
+filename = "zombieapocalypseaddon-2.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a546bc5eae101116483dee66a4bd424ff8967539"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9304484
+project-id = 1497600
