@@ -9,6 +9,14 @@ file = "config/iris.properties"
 hash = "0d01f2d943136d885a25f5e62594e3c8a4b489ee15252aab9dcb9f2af722a2cf"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_table/entities/vex.json"
+hash = "0f45334d2fae53f4166ecc8a292568cee5249e5f56a093757944c55df38bd282"
+
+[[files]]
+file = "kubejs/server_scripts/camas.js"
+hash = "44b9d1f0f5d2d0e2abf2db8bfad0e923a141737a7094bdb1722b9c062dafd5b0"
+
+[[files]]
 file = "kubejs/server_scripts/eventos.js"
 hash = "0ac761410cc6dcb9c4b281cdbef378f91e5525babf4a0ff571b4e181caaa927c"
 
