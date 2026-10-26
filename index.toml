@@ -90,8 +90,8 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
-file = "mods/gonxzero-1.0.0.jar"
-hash = "b8b40b4692ada5514bc83b8441aaf4a623edeb33c82e478c057bb77265f72300"
+file = "mods/gonxzero-1.2.0.jar"
+hash = "36c9505b9af4a098f136f221f3d77ca955c6f5c0eb80c5dbd4bc53760ea8b1cd"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
